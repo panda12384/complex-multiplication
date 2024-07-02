@@ -21,5 +21,8 @@ The imag_part is calculated as
 
 
 ![sam1395330117714](https://github.com/panda12384/complex-multiplication/assets/160568759/186ad2cd-604e-46c4-93f8-f9b07db1ee13)
+
+
+
 output:
 ![Screenshot 2024-07-02 134436](https://github.com/panda12384/complex-multiplication/assets/160568759/d8b2f6ad-2abf-425f-8ab1-660237e24179)
